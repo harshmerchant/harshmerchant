@@ -31,20 +31,14 @@ I am passionate about building efficient systems, clean UI, and high-quality bac
 
 ## 🛠️ Tools & Technologies
 
-### 👨‍💻 Languages
-JavaScript • TypeScript • HTML5 • CSS3 • SQL  
-
-### 🎨 Frontend
-Angular • React • Next.js • Ionic Framework • Bootstrap • Tailwind CSS  
-
-### ⚙️ Backend
-Laravel • Node.js • Express.js • REST API Development  
-
-### 🗄️ Database
-MySQL • MongoDB  
-
-### 🔧 Tools
-Git • GitHub • Postman • VS Code • Jira • Docker (Basic) • AWS (Basic)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 ## 📫 How to reach me?

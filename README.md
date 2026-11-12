@@ -1,95 +1,189 @@
-<h1 align="center">Hi  <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="35">, I'm Harsh Merchant</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!-- 🔁 Replace YOUR_GITHUB_USERNAME everywhere (Ctrl+F) with your real GitHub username -->
 
-<p align="center">
-  <a href="mailto:harshmerchant2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harshsardiya17">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://harshcodes-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Harsh%20Merchant&fontSize=62&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Healthcare%20Enterprise%20Systems&descSize=18&descAlignY=58" width="100%" />
 
-## 👨‍💻 Who am I?
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=760&height=60&lines=Building+scalable+GxP-compliant+systems;Laravel+%7C+Node.js+%7C+Angular+%7C+React;Clean+Code+%E2%80%A2+Fast+APIs+%E2%80%A2+Great+UX;3%2B+years+of+shipping+real-world+products" alt="Typing SVG" />
+</a>
 
-I am a results-driven **Full Stack Developer** with 3+ years of experience in building scalable web and mobile applications.  
+<br/>
 
-Currently working at **VidyaGxP Pvt. Ltd.**, where I contribute to developing GxP-compliant healthcare systems such as **DMS, LMS, and QMS** with a strong focus on performance, security, and usability.
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Based%20in-Ahmedabad%2C%20India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-I am passionate about building efficient systems, clean UI, and high-quality backend APIs.
+<br/><br/>
 
----
+<a href="mailto:harshmerchant2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/harshsardiya17">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://harshcodes-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-## 🚀 What am I currently working on?
+</div>
 
-- Developing enterprise healthcare systems (DMS, LMS, QMS)
-- Building scalable REST APIs using Laravel & Node.js
-- Creating responsive frontend applications using Angular
-- Improving application performance and user experience
-- Writing clean, maintainable, and optimized code
+<br/>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 👨‍💻 &nbsp;About Me
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+```js
+const harsh = {
+  role: "Full Stack Developer",
+  experience: "3+ years",
+  currentlyAt: "VidyaGxP Pvt. Ltd.",
+  domain: "GxP-compliant Healthcare Systems (DMS • LMS • QMS)",
+  stack: {
+    frontend: ["Angular", "React", "Next.js", "Ionic", "TypeScript", "Tailwind"],
+    backend:  ["Laravel", "Node.js", "Express.js", "REST APIs"],
+    database: ["MySQL", "MongoDB"],
+    cloud:    ["AWS", "Docker"]
+  },
+  focus: ["Performance", "Security", "Usability", "Clean Architecture"],
+  mindset: "Ship fast. Write clean. Keep learning.",
+  openTo: "Impactful product engineering roles 🚀"
+};
+```
 
 ---
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🚀 &nbsp;What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Enterprise Healthcare
+Building **DMS, LMS and QMS** platforms for regulated (GxP) environments, where reliability, audit-readiness and security are non-negotiable.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Scalable Backends
+Designing **REST APIs** with **Laravel** and **Node.js**, with a focus on clean structure, speed and maintainability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Modern Frontends
+Creating responsive, intuitive interfaces with **Angular**, plus **React / Next.js** for modern web experiences.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Performance & UX
+Optimizing load times, queries and user flows so that apps feel fast and simple to use.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,sql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ionic,bootstrap,tailwind&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,docker,aws,vscode&theme=dark" />
+
+</div>
 
 ---
-## 📫 How to reach me?
 
-📧 Email: harshmerchant2000@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/harshsardiya17  
-🌐 Portfolio: https://harshcodes-dev.vercel.app  
+## 🧩 &nbsp;How I Build
+
+```mermaid
+flowchart LR
+    A[💡 Requirement] --> B[🎨 UI in Angular / React]
+    B --> C[⚙️ API in Laravel / Node.js]
+    C --> D[(🗄️ MySQL / MongoDB)]
+    C --> E[🔐 Security & Compliance]
+    D --> F[🐳 Docker]
+    E --> F
+    F --> G[☁️ AWS Deployment]
+    G --> H[🚀 Scalable Product]
+```
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building real-world scalable applications and continuously learning new technologies to improve my development skills.
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+</div>
 
 ---
 
-⭐️ *Focused on writing clean code, building scalable systems, and delivering real-world solutions.*
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" />
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **product engineering, scalable systems and new opportunities**.
+
+📧 **harshmerchant2000@gmail.com** &nbsp;•&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/harshsardiya17)** &nbsp;•&nbsp; 🌐 **[Portfolio](https://harshcodes-dev.vercel.app)**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />

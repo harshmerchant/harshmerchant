@@ -1,30 +1,22 @@
-<!-- 🔁 Replace YOUR_GITHUB_USERNAME everywhere (Ctrl+F) with your real GitHub username -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Harsh%20Merchant&fontSize=62&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Healthcare%20Enterprise%20Systems&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Harsh%20Sardiya&fontSize=62&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%204%2B%20Years%20%7C%20Angular%20%E2%80%A2%20Node.js%20%E2%80%A2%20Laravel&descSize=17&descAlignY=58" width="100%" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=760&height=60&lines=Building+scalable+GxP-compliant+systems;Laravel+%7C+Node.js+%7C+Angular+%7C+React;Clean+Code+%E2%80%A2+Fast+APIs+%E2%80%A2+Great+UX;3%2B+years+of+shipping+real-world+products" alt="Typing SVG" />
+<a href="https://github.com/harshmerchant">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=780&height=60&lines=Building+enterprise+systems+that+scale;Angular+%7C+TypeScript+%7C+Ionic;Node.js+%7C+Express+%7C+Laravel+%7C+MySQL;JWT+%E2%80%A2+RBAC+%E2%80%A2+Clean+REST+APIs" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=harshmerchant&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Based%20in-Ahmedabad%2C%20India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Based%20in-Indore%2C%20India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<a href="mailto:harshmerchant2000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/harshsardiya17">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://harshcodes-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="mailto:harshmerchant2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/harshsardiya17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://harshcodes-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -34,54 +26,99 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-```js
-const harsh = {
+```ts
+const harsh: Developer = {
+  name: "Harsh Sardiya",
   role: "Full Stack Developer",
-  experience: "3+ years",
-  currentlyAt: "VidyaGxP Pvt. Ltd.",
-  domain: "GxP-compliant Healthcare Systems (DMS • LMS • QMS)",
-  stack: {
-    frontend: ["Angular", "React", "Next.js", "Ionic", "TypeScript", "Tailwind"],
-    backend:  ["Laravel", "Node.js", "Express.js", "REST APIs"],
-    database: ["MySQL", "MongoDB"],
-    cloud:    ["AWS", "Docker"]
-  },
-  focus: ["Performance", "Security", "Usability", "Clean Architecture"],
-  mindset: "Ship fast. Write clean. Keep learning.",
+  experience: "4+ years",
+  currentlyAt: "LiuGong India Pvt. Ltd.",
+  previously: ["VidyaGxP", "Swapac Infotech"],
+  specialization: ["Angular", "TypeScript", "Ionic", "Node.js", "Laravel"],
+  security: ["JWT Authentication", "Role-Based Access Control (RBAC)"],
+  strengths: ["Scalable REST APIs", "Responsive UI", "Performance Optimization"],
+  education: "B.Tech CSE, RGPV (CGPA 7.8)",
+  mindset: "Maintainable code. Reliable experiences.",
   openTo: "Impactful product engineering roles 🚀"
 };
 ```
 
 ---
 
-## 🚀 &nbsp;What I'm Working On
+## 💼 &nbsp;Experience
+
+| 🏢 Company | 🎯 Role | 📅 Duration | 🔑 Highlights |
+|---|---|---|---|
+| **LiuGong India** | Full Stack Developer | Jun 2026 – Present | IT Asset Management, Gate Pass with facial recognition, FLEX QMS |
+| **VidyaGxP** | Software Developer | Sep 2024 – Apr 2026 | GxP-compliant DMS / LMS / QMS for 500+ users |
+| **Swapac Infotech** | Software Developer | Sep 2022 – Jul 2024 | Hybrid Ionic apps, 15+ API integrations, 3 client deployments |
+
+---
+
+## 📈 &nbsp;Impact in Numbers
+
+<div align="center">
+
+| ⚡ **35%** | 🛡️ **99.9%** | 📬 **10,000+** | 🚀 **40%** | 📉 **50%** |
+|:---:|:---:|:---:|:---:|:---:|
+| faster page load | API uptime | daily API requests | faster user onboarding | shorter document review cycle |
+
+| 👥 **500+** | 🔁 **12+** | 🔌 **15+** | 📱 **5,000+** | 🗃️ **300%** |
+|:---:|:---:|:---:|:---:|:---:|
+| internal users served | release cycles | REST APIs integrated | app downloads | faster data retrieval |
+
+</div>
+
+---
+
+## 🚀 &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Enterprise Healthcare
-Building **DMS, LMS and QMS** platforms for regulated (GxP) environments, where reliability, audit-readiness and security are non-negotiable.
+### 🖥️ IT Asset Management System
+`Angular` `TypeScript` `Node.js` `Express` `MySQL`
+
+- Dynamic **35-field** asset specification system using **Angular Signals**
+- **One-click Employee Exit Clearance** and Return-to-Stock workflow
+- Executive **KPI dashboards** with reactive SVG visualizations
+- **JWT + RBAC**, MySQL connection pooling, seeders, Nodemailer
+- **Gate Pass module** with facial recognition for secure plant entry/exit
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Scalable Backends
-Designing **REST APIs** with **Laravel** and **Node.js**, with a focus on clean structure, speed and maintainability.
+### 💊 Medicef Pharma Suite (DMS · LMS · QMS)
+`Laravel` `MySQL` `Angular` `Bootstrap`
+
+- Pharma compliance for document control, training and QA
+- SOP tracking with automated approvals, **50% faster** review cycles
+- Real-time dashboards for training completion and audit readiness
+- **100% GxP documentation compliance** via audit logging and version control
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Modern Frontends
-Creating responsive, intuitive interfaces with **Angular**, plus **React / Next.js** for modern web experiences.
+### 📊 Accrue: Online Survey Platform
+`Node.js` `Express` `MongoDB` `Angular Material`
+
+- Data collection from **1,000+ users** with real-time analytics
+- Validated and sanitized REST APIs
+- Interactive dashboard with charts and export
+- **300% faster** retrieval on large survey datasets
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Performance & UX
-Optimizing load times, queries and user flows so that apps feel fast and simple to use.
+### 📱 Town Dial: Rural Accessibility App
+`Ionic` `Angular` `TypeScript` `MySQL`
+
+- Built for **low-connectivity** rural users, **5,000+ downloads**
+- **Offline data sync** using local storage
+- Accessibility-focused UI, **35% higher engagement**
+- Backend APIs for users, content and real-time notifications
 
 </td>
 </tr>
@@ -95,23 +132,23 @@ Optimizing load times, queries and user flows so that apps feel fast and simple 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ionic,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,ionic,bootstrap&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php&theme=dark" />
 
 **Database**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-**Tools & Cloud**
+**Tools & Practices**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,jira,docker,aws,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode&theme=dark" />
 
 </div>
 
@@ -121,14 +158,13 @@ Optimizing load times, queries and user flows so that apps feel fast and simple 
 
 ```mermaid
 flowchart LR
-    A[💡 Requirement] --> B[🎨 UI in Angular / React]
-    B --> C[⚙️ API in Laravel / Node.js]
-    C --> D[(🗄️ MySQL / MongoDB)]
-    C --> E[🔐 Security & Compliance]
-    D --> F[🐳 Docker]
+    A[💡 Requirement] --> B[🎨 Angular / Ionic UI]
+    B --> C[⚙️ Node.js / Laravel REST API]
+    C --> D[🔐 JWT + RBAC]
+    C --> E[(🗄️ MySQL / MongoDB)]
+    D --> F[✅ QA & Audit-ready Release]
     E --> F
-    F --> G[☁️ AWS Deployment]
-    G --> H[🚀 Scalable Product]
+    F --> G[🚀 Reliable Product]
 ```
 
 ---
@@ -137,16 +173,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshmerchant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmerchant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=harshmerchant&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=harshmerchant&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 </div>
 
@@ -155,7 +191,7 @@ flowchart LR
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmerchant&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" />
 </div>
 
 ---
@@ -164,11 +200,20 @@ flowchart LR
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshmerchant/harshmerchant/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshmerchant/harshmerchant/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harshmerchant/harshmerchant/output/github-snake-dark.svg" />
   </picture>
 </div>
+
+---
+
+## 🎓 &nbsp;Education & Certifications
+
+- 🎓 **B.Tech, Computer Science & Engineering**: RGPV, Bhopal (2018 – 2022), CGPA 7.8
+- 🏅 **Software Engineer Certificate**: HackerRank
+- 🏦 **JPMorgan Chase Software Engineering Job Simulation**: Forage
+- 🎨 **Front End Development Libraries**: freeCodeCamp
 
 ---
 
@@ -176,13 +221,9 @@ flowchart LR
 
 <div align="center">
 
-I'm always open to discussing **product engineering, scalable systems and new opportunities**.
+Open to discussing **product engineering, scalable systems and new opportunities**.
 
 📧 **harshmerchant2000@gmail.com** &nbsp;•&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/harshsardiya17)** &nbsp;•&nbsp; 🌐 **[Portfolio](https://harshcodes-dev.vercel.app)**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22" />
 
 </div>
 
